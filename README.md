@@ -1,5 +1,19 @@
 Simple Platformer
 
+Setup:
+```
+Download love from here https://love2d.org/
+Install Love
+```
+
+Run:
+```
+git clone https://github.com/pareshchouhan/SimplePlatformer
+cd SimplePlatformer
+love .
+```
+
+
 Love Version : 11.x
 
 Trying out different love features for now, hopefully I will end up making a game
