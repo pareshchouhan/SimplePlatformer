@@ -1,0 +1,14 @@
+{ "columns":14,
+ "image":"..\/..\/..\/Assets\/platformer\/platformPack_tilesheet.png",
+ "imageheight":448,
+ "imagewidth":896,
+ "margin":0,
+ "name":"platformPack_tilesheet",
+ "spacing":0,
+ "tilecount":98,
+ "tiledversion":"1.2.1",
+ "tileheight":64,
+ "tilewidth":64,
+ "type":"tileset",
+ "version":1.2
+}

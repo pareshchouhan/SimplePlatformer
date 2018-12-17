@@ -1,0 +1,17 @@
+*.pyc
+*.so
+*.swp
+*.sublime-*
+.DS_Store
+.idea
+.project
+.pydevproject
+.tox
+YelpLove.egg-info
+config.py
+google_appengine
+lib
+tmp
+import/*.csv
+import/*.json
+venv
